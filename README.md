@@ -7,7 +7,7 @@ I build and secure systems that don't break. Currently working on automating eve
 ## 🛠️ Tech Stack
 **Infrastructure:** Linux, Docker, Python, Bash, Networking  
 **Security:** System Hardening, Access Controls, Security Policies  
-**Monitoring & Tools:** Wireshark, Nmap, Git, Zabbix
+**Monitoring & Tools:** Wireshark, Nmap, Git
 
 ## 🔥 Current Projects
 - **[Linux Security Hardening Tool](https://github.com/6kristian/linux-security-hardening-tool)** - Automated security patching and system hardening
@@ -24,5 +24,5 @@ I build and secure systems that don't break. Currently working on automating eve
 - **Documentation or it didn't happen**
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kfrroku)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frrokuk2@gmail.com)
