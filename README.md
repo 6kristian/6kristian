@@ -12,7 +12,7 @@ I build and secure systems that don't break. Currently working on automating eve
 ## 🔥 Current Projects
 - **[Linux Security Hardening Tool](https://github.com/6kristian/linux-security-hardening-tool)** - Automated security patching and system hardening
 - **[Portfolio](https://github.com/6kristian/Portfolio)** - Portfolio
-- **[Personal-Expense-Tracker]([https://github.com/6kristian/cicd-templates](https://github.com/6kristian/Personal-Expense-Tracker))** - Personal Expense Tracker
+- **[Personal-Expense-Tracker](https://github.com/6kristian/Personal-Expense-Tracker)** - Personal Expense Tracker
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=6kristian&show_icons=true&theme=radical)
